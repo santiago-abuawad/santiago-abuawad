@@ -7,6 +7,6 @@
 </div>
 
 <div align="center">
-       <h2>Skills</h2>
+       <h2></h2>
 
   </div>
